@@ -1,4 +1,4 @@
-# 🎬 Auto Filter Movie Bot with Shortener
+# 🎬 Auto Filter Movie Bot 
 
 A Telegram bot that fetches movie download links and shortens them using EarnLinks.
 
@@ -10,3 +10,4 @@ A Telegram bot that fetches movie download links and shortens them using EarnLin
 ```bash
 git clone https://github.com/YOUR_USERNAME/AutoFilterMovieBot.git
 cd AutoFilterMovieBot
+
